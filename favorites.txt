@@ -1,3 +1,6 @@
 idli
 dosa
 vada
+burger
+noodles
+sandwiches 
